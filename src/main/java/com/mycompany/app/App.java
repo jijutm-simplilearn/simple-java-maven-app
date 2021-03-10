@@ -8,7 +8,7 @@ public class App
 
     private final String message = "Hello World!";
 
-    private final Strinng checkit = 'This will break';
+    //private final Strinng checkit = 'This will break';
 
     public App() {}
 
